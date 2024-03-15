@@ -16,7 +16,14 @@ background-image: url(imagens/Sem\ título.jpg);
     display: flex;
     flex-wrap: wrap;
     padding: 60px;
-   
+    
+}
+
+.cabecalho p{
+    color: aliceblue;
+    font-size: 47px;
+    align-items: center;
+    font-weight: bolder;
 }
 
 .menu li a{
@@ -24,7 +31,7 @@ background-image: url(imagens/Sem\ título.jpg);
     background-color: aliceblue;
     text-decoration: none;
     padding: 10px;
-    font-size: 20px;
+    font-size: 19px;
     text-align: center;
     border-radius: 7px;
 }
@@ -55,12 +62,12 @@ background-image: url(imagens/Sem\ título.jpg);
 
 h2{
     text-align: center;
-    
+    margin-top: 113px;
     font-weight: bold;
     font-size: 50px;
     color: aliceblue;
-    background-color: #330f0f;
-    padding: 40px;
+    background-color: #330f0ff3;
+    padding: 50px;
 }
 
 .ilustracoes img{
@@ -87,21 +94,21 @@ h2{
 
 .ilustracoes P{
     text-align: center;
-    margin-top: 5px;
+    /* margin-top: 5px; */
     font-size: 23px;
     font-weight: bold;
-    background-color: #330f0f;
+    background-color: #330f0fe3;
     color: aliceblue;
-    padding: 6px;
+    padding: 10px;
     border-radius: 15px ;
-    width: 300px;
+    width: 280px;
 }
 
 .part2{
-    background-color: #330f0f;
+    background-color: #330f0ff3;
     padding: 80px;
     text-align: justify;
-    font-size: 20px;
+    font-size: 22px;
     font-weight: bold;
     color: aliceblue;
 }
@@ -165,6 +172,12 @@ footer{
     border-radius: 5px;
 }
 
+.fa-youtube{
+    color: red;
+    background-color: aliceblue;
+    padding: 4px;
+    border-radius: 5px;
+}
 
 
 
